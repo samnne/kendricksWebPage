@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    background-color: #a3a3a3;
+    background: url(https://s.hdnux.com/photos/01/27/22/07/22880723/4/rawImage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.topHeader{
+    background-color: #000000;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#logo{
+    display: block;
+    margin: auto;
+
+}
+
+
+#subHeading{
+    text-align: center;
+    font-size: 13px;
+    font-family: "Dosis", serif;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+    color: #ffffff;
+}
+
+.videoSection{
+    background-color: #363636;
+    padding: 100px;
+    text-align: center;
+    
+    
+}
+h3{
+    padding: 50px;
+    margin: 0px;
+}
+
+#Poem{
+    padding-bottom: 50px;
+}
+
+section{
+    margin: 0px;
+    padding: 0px;
+}
+article{
+    margin: 0px;
+    padding: 0px;
+}
+iframe{
+    width: 800px;
+    box-shadow: 25px 25px 15px 15px #100f0f3d;
+    height: 350px;
+}
+
+h1{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Dancing Script", serif;
+    font-size: 100px;
+    letter-spacing: 10px;
+
+}
+.navMenu li{
+    display: inline-block;
+    margin: 0px 15px 25px 15px;
+    
+}
+
+.navMenu a{
+    text-decoration: none;
+    padding: 10px;
+    font-family: "Dancing Script", serif;
+    color: #ffffff;
+}
+
+.poemSection{
+    padding: 25px;
+    font-family: "Dosis", serif;
+    text-align: center;
+    color: #f3fdff;
+}
+
+.buyVinyl{
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
+
+.sidebar {
+    width:  300px;
+    height: 650px;
+    float: right;
+    background-color: #434343;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Dancing Script", serif;
+}
+
+.leftbar {
+    width:  1330px;
+    height: 600px;
+    float: left;
+    background-color: #b2b2b2;
+    font-family: "Dosis", serif;
+    padding: 25px
+}
+.leftbar p {
+    letter-spacing: 2px;
+    text-align: left;
+}
+.leftbar img{
+    height: 440px;
+    width: 330px;
+    align-items: center;
+    padding-top: 25px;
+    border-radius: 15px;
+}
+
+#copyRight{
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    padding: 0px;
+    text-align: center;
+    font-family: "Dancing Script", serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    
+}
+
+input{
+    margin-top: 50px;
+    height: 20px;
+    font-family: "Dancing Script", serif;
+    background-color: #000000;
+    
+}
